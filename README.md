@@ -9,7 +9,7 @@ The project employs a conditional deep convolutional GAN (cDCGAN) to train the M
 
 ## MNIST Dataset
 
-The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) is a well-known collection of 70,000 small images of handwritten digits (0-9), each measuring 28x28 pixels. The entire dataset is used to train the cDCGAN model in this project.
+The [MNIST dataset](https://www.tensorflow.org/datasets/catalog/mnist) is a well-known collection of 70,000 small images of handwritten digits (0-9), each measuring 28x28 pixels. The entire dataset is used to train the cDCGAN model in this project.
 
 ## Project Findings
 
